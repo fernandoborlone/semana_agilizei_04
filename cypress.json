@@ -1,0 +1,9 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "baseUrl": "https://twitter-clone-example.herokuapp.com",
+    "env": {
+        "email": "fbarbosa@gmail.com",
+        "password": "teco2012",
+        "url_api": "https://twitter-clone-example-backend.herokuapp.com/"
+    }
+}
